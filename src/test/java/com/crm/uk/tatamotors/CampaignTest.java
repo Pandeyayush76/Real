@@ -1,8 +1,6 @@
 package com.crm.uk.tatamotors;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.Test;
-import org.testng.annotations.Test;
 
 public class CampaignTest {
  @Test(groups="smoke")
