@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40" started-at="2022-07-13T18:07:06 IST" finished-at="2022-07-13T18:07:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40" started-at="2022-07-13T18:07:06 IST" finished-at="2022-07-13T18:07:06 IST">
+      <class name="com.crm.uk.tatamotors.CampaignTest">
+        <test-method status="PASS" signature="campaign()[pri:0, instance:com.crm.uk.tatamotors.CampaignTest@42f93a98]" name="campaign" duration-ms="5" started-at="2022-07-13T18:07:06 IST" finished-at="2022-07-13T18:07:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campaign -->
+        <test-method status="PASS" signature="contact()[pri:0, instance:com.crm.uk.tatamotors.CampaignTest@42f93a98]" name="contact" duration-ms="1" started-at="2022-07-13T18:07:06 IST" finished-at="2022-07-13T18:07:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact -->
+      </class> <!-- com.crm.uk.tatamotors.CampaignTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
